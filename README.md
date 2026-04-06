@@ -55,3 +55,18 @@ The rolling model demonstrates moderate-to-good performance and outperforms many
    ```bash
    git clone https://github.com/HuyNguyen2601/MonteCarloVaR.git
    cd MonteCarloVaR
+
+2. Install required packages:Bash
+   ```bash
+   pip install pandas numpy matplotlib yfinance statsmodels jupyter
+   
+3. Launch Jupyter Notebook:Bash
+   ```bash
+   jupyter notebook
+
+4. Open and run Thesis - Monte Carlo VaR.ipynb
+
+## Contact
+Huy Nguyen
+Student number: 2107056
+Email: HH.Nguyen3@student.han.nl
