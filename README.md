@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains the complete implementation, data processing, visualizations, and reproducibility materials for my bachelor's thesis:
+This repository explains the  implementation, data processing, visualizations, and reproducibility materials for my bachelor's thesis:
 
 > **"To what extent does a rolling factor-based Monte Carlo VaR model with a 99% confidence level provide accurate risk estimates under the Basel Traffic Light backtesting framework for a portfolio of five European banks (Banco Santander, UniCredit, BNP, ING Group ,Deutsche Bank), and how does the portfolio respond to historical and hypothetical stress testing?"**
 
@@ -65,6 +65,11 @@ The rolling model demonstrates moderate-to-good performance and outperforms many
    jupyter notebook
 
 4. Open and run Thesis - Monte Carlo VaR.ipynb
+
+## AI Support
+The establishment of these models have the help of two AIs: ChatGPT and Grok. Support areas:
+- Establishing & confirming models logic and functions
+- Debugging issues 
 
 ## Contact
 - Huy Nguyen
