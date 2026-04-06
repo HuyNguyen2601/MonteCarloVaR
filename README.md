@@ -67,6 +67,6 @@ The rolling model demonstrates moderate-to-good performance and outperforms many
 4. Open and run Thesis - Monte Carlo VaR.ipynb
 
 ## Contact
-Huy Nguyen
-Student number: 2107056
-Email: HH.Nguyen3@student.han.nl
+- Huy Nguyen
+- Student number: 2107056
+- Email: HH.Nguyen3@student.han.nl
